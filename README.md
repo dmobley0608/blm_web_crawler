@@ -1,4 +1,4 @@
-# Web Crawler for Horse Breeds and Colors
+# Web Crawler for collecting data from the Bureau of Land Management
 
 This web crawler fetches information about Herd Management Areas (HMA) and horse breeds from the Bureau of Land Management (BLM) website. The extracted data is saved into an Excel file.
 
